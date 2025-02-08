@@ -95,6 +95,17 @@ color: black;
   }
   .color{
     color: darkred;
+    font-weight: 900;
+  }
+  .color1{
+    color: rgb(12, 16, 241);
+    font-weight: 900;
+  }
+  .bgcolor{
+    background-color: rgb(168, 168, 168);
+  }
+  .bgcolor1{
+    background-color: rgb(211, 208, 208);
   }
   
   
