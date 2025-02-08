@@ -1,5 +1,5 @@
 .bold{
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 400%;
 
 }
@@ -16,7 +16,7 @@
     text-align: center;
 }
 .btn{
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .margin{
@@ -27,7 +27,7 @@
 }
 .style{
     font-weight: bolder;
-    font-size: medium;
+    font-size: 200%;
     color: black;
 }
 .bebas-neue-regular {
@@ -88,6 +88,10 @@
     text-transform: capitalize;
     font-weight: bolder;
     color: rgb(5, 168, 106);
+  }
+  .details{
+color: black;
+
   }
   
   
