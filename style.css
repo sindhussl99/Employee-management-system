@@ -54,7 +54,7 @@
     font-weight: bolder;
     font-size: large;
     text-decoration: none;
-    padding: 6%;
+    padding: 5%;
   }
   .navbar a:hover{
     color: chocolate;
@@ -71,7 +71,8 @@
   }
   .footer{
     text-align: center;
-    background-color: rgb(142, 150, 158);
+    color: rgb(12, 12, 12);
+    font-weight:bolder;
     
   }
   .footer h4{
@@ -101,11 +102,9 @@ color: black;
     color: rgb(12, 16, 241);
     font-weight: 900;
   }
-  .bgcolor{
-    background-color: rgb(168, 168, 168);
-  }
-  .bgcolor1{
-    background-color: rgb(211, 208, 208);
+  .color2{
+    color: black;
+    font-weight: 600;
   }
   
   
