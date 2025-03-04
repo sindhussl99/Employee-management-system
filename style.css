@@ -1,0 +1,110 @@
+.bold{
+    font-weight: bolder;
+    font-size: 400%;
+
+}
+.span{
+    background-color: rgb(11, 235, 29);
+}
+.span1{
+    background-color: rgb(43, 144, 226);
+}
+.bold1{
+    font-size: x-large;
+}
+.align{
+    text-align: center;
+}
+.btn{
+    font-weight: bold;
+}
+
+.margin{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 10cm;
+    margin-right: 10cm;
+}
+.style{
+    font-weight: bolder;
+    font-size: 200%;
+    color: black;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.josefin-sans-uniquifier{
+    font-family: "Josefin Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+  }
+  .navbar{
+    background-color:cornsilk;
+    padding: 1%;
+    border-radius: 0%;
+    text-align: center;
+
+  }
+  .navbar a{
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    text-decoration: none;
+    padding: 5%;
+  }
+  .navbar a:hover{
+    color: chocolate;
+  }
+  .breadcrumb a:hover{
+    color: rgb(107, 4, 107);
+  }
+  .pagination a:hover{
+    color: darkblue;
+  }
+  .right
+  {
+    text-align: right;
+  }
+  .footer{
+    text-align: center;
+    color: rgb(12, 12, 12);
+    font-weight:bolder;
+    
+  }
+  .footer h4{
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: rgb(31, 12, 12);
+  }
+  .footer h5{
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: rgb(14, 13, 12);
+  }
+  .h5{
+    text-transform: capitalize;
+    font-weight: bolder;
+    color: rgb(5, 168, 106);
+  }
+  .details{
+color: black;
+
+  }
+  .color{
+    color: darkred;
+    font-weight: 900;
+  }
+  .color1{
+    color: rgb(12, 16, 241);
+    font-weight: 900;
+  }
+  .color2{
+    color: black;
+    font-weight: 600;
+  }
+  
+  
